@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ccc/ccc.iml" filepath="$PROJECT_DIR$/ccc/ccc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-server/platform-auth/platform-auth.iml" filepath="$PROJECT_DIR$/uni-server/platform-auth/platform-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-server/platform-server/platform-server.iml" filepath="$PROJECT_DIR$/uni-server/platform-server/platform-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-server/platform-sys/platform-sys.iml" filepath="$PROJECT_DIR$/uni-server/platform-sys/platform-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-server/test/test.iml" filepath="$PROJECT_DIR$/uni-server/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-api/uni-api.iml" filepath="$PROJECT_DIR$/uni-api/uni-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-base/uni-base.iml" filepath="$PROJECT_DIR$/uni-base/uni-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-config/uni-config.iml" filepath="$PROJECT_DIR$/uni-config/uni-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-datasource/uni-datasource.iml" filepath="$PROJECT_DIR$/uni-datasource/uni-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-eureka-server/uni-eureka-server.iml" filepath="$PROJECT_DIR$/uni-eureka-server/uni-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-geteway-server/uni-geteway-server.iml" filepath="$PROJECT_DIR$/uni-geteway-server/uni-geteway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-parent/uni-parent.iml" filepath="$PROJECT_DIR$/uni-parent/uni-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-server/uni-server.iml" filepath="$PROJECT_DIR$/uni-server/uni-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-third/uni-third.iml" filepath="$PROJECT_DIR$/uni-third/uni-third.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uni-utils/uni-utils.iml" filepath="$PROJECT_DIR$/uni-utils/uni-utils.iml" />
+    </modules>
+  </component>
+</project>

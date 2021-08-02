@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="platform-server" />
+        <module name="ccc" />
+        <module name="test" />
+        <module name="uni-base" />
+        <module name="platform-auth" />
+        <module name="demo" />
+        <module name="uni-datasource" />
+        <module name="uni-utils" />
+        <module name="uni-config" />
+        <module name="uni-api" />
+        <module name="uni-third" />
+        <module name="uni-geteway-server" />
+        <module name="uni-eureka-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ccc" target="16" />
+      <module name="demo" target="16" />
+      <module name="platform-auth" target="16" />
+      <module name="platform-server" target="16" />
+      <module name="platform-sys" target="16" />
+      <module name="test" target="16" />
+      <module name="uni-" target="1.7" />
+      <module name="uni-api" target="16" />
+      <module name="uni-base" target="16" />
+      <module name="uni-config" target="16" />
+      <module name="uni-datasource" target="16" />
+      <module name="uni-eureka-server" target="16" />
+      <module name="uni-geteway-server" target="16" />
+      <module name="uni-geteway-service" target="1.7" />
+      <module name="uni-parent" target="16" />
+      <module name="uni-platform" target="1.7" />
+      <module name="uni-platform-server" target="1.7" />
+      <module name="uni-server" target="16" />
+      <module name="uni-third" target="16" />
+      <module name="uni-third-server" target="1.7" />
+      <module name="uni-until" target="1.7" />
+      <module name="uni-utils" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ccc" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="platform-auth" options="-parameters" />
+      <module name="platform-server" options="-parameters" />
+      <module name="platform-sys" options="-parameters" />
+      <module name="test" options="-parameters" />
+      <module name="uni-" options="-parameters" />
+      <module name="uni-api" options="-parameters" />
+      <module name="uni-base" options="-parameters" />
+      <module name="uni-config" options="-parameters" />
+      <module name="uni-datasource" options="-parameters" />
+      <module name="uni-eureka-server" options="-parameters" />
+      <module name="uni-geteway-server" options="-parameters" />
+      <module name="uni-geteway-service" options="-parameters" />
+      <module name="uni-parent" options="-parameters" />
+      <module name="uni-platform" options="-parameters" />
+      <module name="uni-platform-server" options="-parameters" />
+      <module name="uni-server" options="-parameters" />
+      <module name="uni-third" options="-parameters" />
+      <module name="uni-third-server" options="-parameters" />
+      <module name="uni-until" options="-parameters" />
+      <module name="uni-utils" options="-parameters" />
+    </option>
+  </component>
+</project>
